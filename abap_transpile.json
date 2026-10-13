@@ -9,7 +9,6 @@
   "write_unit_tests": true,
   "options": {
     "addCommonJS": true,
-    "unknownTypes": "runtimeError",
-    "skip": []
+    "unknownTypes": "runtimeError"
   }
 }
